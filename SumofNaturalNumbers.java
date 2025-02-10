@@ -16,7 +16,6 @@ public class sumOfNaturalNumbers {
 		}
 		System.out.println("Sum of Natural Numbers:"+temp);
 		System.out.println("This is Webhook");
-		
 	}
 
 }
